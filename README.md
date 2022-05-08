@@ -1,5 +1,8 @@
 # ZJU-nCov-Hitcarder-Sample
 
+update 2022.05.08
+ Settings > Secrets > New repository secrets， 添加`COOKIE`，内容为打卡网页的 eai-sess.
+
 Sample for https://github.com/Long0x0/ZJU-nCov-Hitcarder.
 
 浙大nCov肺炎健康打卡定时自动脚本
